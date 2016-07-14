@@ -1,0 +1,6 @@
+﻿{
+  "Name": "ListObjects",
+  "Authour": "tesetings",
+  "Description": "Adds a command to search for objects, fish points, and pan points in the game",
+  "EntryDll":  "ListObjects.dll"
+}
